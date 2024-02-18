@@ -1,4 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Udbhav-regadamilli)
+<br>[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 <h1 align="center">👋 Hey, there! I'm Lakshmi Udbhav</h1>
 
 <p align="center">🎓 Student at Gayatri Vidya Parishad College for Degree & P.G. Courses, Visakhapatnam, India</p>
