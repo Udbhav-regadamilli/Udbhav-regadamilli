@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Udbhav-regadamilli)
 <h1 align="center">👋 Hey, there! I'm Lakshmi Udbhav</h1>
 
 <p align="center">🎓 Student at Gayatri Vidya Parishad College for Degree & P.G. Courses, Visakhapatnam, India</p>
