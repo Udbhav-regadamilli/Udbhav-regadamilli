@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Hey, there! I'm Lakshmi Udbhav</h1>
 
-<p align="center">🎓 Student at Gayatri Vidya Parishad College for Degree & P.G. Courses, Visakhapatnam, India</p>
+ <p align="center">💼 Backend Developer at iQuadra Information Services LLC, Nellore, India</p>
 
 <h2 align="center">About Me</h2>
 
