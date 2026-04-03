@@ -1,10 +1,9 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Udbhav-regadamilli" alt="visitors"/>
+</p>
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Lakshmi Udbhav</h1>
 <h3 align="center">Full Stack Developer | AI & ML Enthusiast | Building Scalable Systems 🚀</h3>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Udbhav-regadamilli" alt="visitors"/>
-</p>
 
 ---
 
