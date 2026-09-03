@@ -1,87 +1,102 @@
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Udbhav-regadamilli" alt="visitors"/>
+<div align="center">
+
+# Lakshmi Udbhav
+
+### Backend & AI-focused Full Stack Developer
+
+Building scalable APIs, AI-powered products, automation systems, and cost-efficient cloud infrastructure.
+
+<p>
+  <a href="https://www.linkedin.com/in/lakshmi-udbhav-regadamilli/">LinkedIn</a> ·
+  <a href="https://medium.com/@luckyudbhav">Medium</a> ·
+  <a href="mailto:luckyudbhav@gmail.com">Email</a>
 </p>
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Lakshmi Udbhav</h1>
-<h3 align="center">Full Stack Developer | AI & ML Enthusiast | Building Scalable Systems 🚀</h3>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 💼 Full Stack Developer at **iQuadra Information Services LLC**
-- 🧠 Passionate about **AI, Machine Learning & Intelligent Systems**
-- ⚙️ Strong in **Backend + Frontend + Cloud (AWS)**
-- 🔥 Focused on building **scalable, high-performance applications**
-- 🎯 Goal: Work on **AI-driven real-world products**
-- 🤝 Open to **collaborations, freelance & opportunities**
+I'm a Full Stack Developer at **iQuadra Information Services LLC**, with a strong backend and cloud focus. I enjoy turning practical problems into production-ready systems using **Python, FastAPI, AWS, React, SQL, automation, and AI/LLM technologies**.
 
----
+My interests sit at the intersection of **backend engineering, scalable cloud architecture, AI developer tools, and automation**—with an emphasis on reliability, performance, and keeping infrastructure and inference costs under control.
 
-## 🛠 Tech Stack
+## What I Build
 
-### 💻 Full Stack
+- **Backend systems** — REST APIs, async services, integrations, and data-intensive applications
+- **Cloud applications** — AWS serverless and cloud-native architectures using services such as Lambda, S3, API Gateway, and RDS
+- **AI-powered products** — LLM applications, developer tools, intelligent assistants, and AI workflows
+- **Automation** — browser automation, workflow automation, and systems that eliminate repetitive manual work
+- **Full-stack applications** — React frontends backed by scalable Python services
+
+## Featured Work
+
+A few areas I actively build and explore:
+
+| Area | Focus |
+| --- | --- |
+| AI Developer Tools | Code assistants, LLM workflows, intelligent development systems |
+| Backend & APIs | FastAPI, async Python, API design, integrations |
+| Cloud & Serverless | AWS Lambda, S3, API Gateway, RDS, cost-efficient architecture |
+| Automation | Selenium, browser automation, workflow optimization |
+| Data & Systems | SQL, SQLAlchemy, performance and scalability |
+
+> See my repositories below for implementations, experiments, and ongoing projects.
+
+## Technical Stack
+
+### Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,nodejs,html,css,java,php" alt="Languages and frameworks" />
+</p>
+
+### Cloud, Data & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,linux,git,github,vscode" alt="Cloud, data and tools" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</p>
+
+**AI focus:** LLM applications · prompt/context optimization · AI agents and assistants · ML fundamentals · reinforcement learning
+
+## Current Focus
+
+- Building an **AI-powered code assistant** and exploring reinforcement-learning approaches for developer tooling
+- Deepening **system design, scalability, and distributed backend** skills
+- Building practical AI applications while optimizing **latency, context usage, and inference cost**
+- Exploring product ideas around **developer productivity, automation, and AI**
+
+## Engineering Principles
+
+```text
+Production over prototypes
+Simple architecture before unnecessary complexity
+Measure performance before optimizing
+Control cloud and inference costs from day one
+Build systems that are observable, reliable, and maintainable
+```
+
+## Writing & Knowledge Sharing
+
+I write about software development, problem solving, and engineering topics on **Medium**.
+
+→ [Read my articles](https://medium.com/@luckyudbhav)
+
+## Let's Connect
+
+I'm open to interesting engineering projects, AI/automation work, freelance opportunities, and collaborations.
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,java,php" />
+  <a href="https://www.linkedin.com/in/lakshmi-udbhav-regadamilli/">LinkedIn</a> ·
+  <a href="https://medium.com/@luckyudbhav">Medium</a> ·
+  <a href="https://www.hackerrank.com/luckyudbhav">HackerRank</a> ·
+  <a href="https://tryhackme.com/p/Udbhav">TryHackMe</a> ·
+  <a href="mailto:luckyudbhav@gmail.com">Email me</a>
 </p>
-
-### ☁️ Cloud & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,vscode,git" />
-</p>
-
-### 🤖 AI / ML (Learning & Building)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
-
-## ⚡ What I Do
-
-- 🔹 Build **end-to-end full stack applications**
-- 🔹 Design **scalable backend systems (FastAPI + AWS Lambda)**
-- 🔹 Optimize performance & reduce infrastructure cost
-- 🔹 Work on **AI-powered tools & intelligent assistants**
-
----
-
-## 🧠 Current Focus
-
-- 🚀 Building a **Code Assistant AI (RL-based)**
-- 🤖 Learning **Machine Learning & Reinforcement Learning**
-- ⚡ Improving **System Design & Scalability skills**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udbhav-regadamilli&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udbhav-regadamilli&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshmi-udbhav-regadamilli/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="mailto:luckyudbhav@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/luckyudbhav">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40"/>
-  </a>
-  <a href="https://medium.com/@luckyudbhav">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40"/>
-  </a>
-  <a href="https://tryhackme.com/p/Udbhav">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Udbhav.png" width="40"/>
-  </a>
-</p>
-
----
