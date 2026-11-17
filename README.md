@@ -9,7 +9,12 @@ I build practical backend and AI products: APIs, async services, retrieval workf
 ## Selected work
 
 - [RAG-based AI Chatbot for PDF Q&A](https://github.com/Udbhav-regadamilli/RAG-based-AI-Chatbot-for-PDF-Q-A) — Ask questions over PDFs with a retrieval pipeline built around FAISS, sentence-transformers, and a local Ollama model.
-- [Opticode Analyzer](https://github.com/Udbhav-regadamilli/opticode-analyzer) — A VS Code extension for surfacing code quality and performance issues while developing.
+
+## Open source
+
+- [Kokoro-FastAPI: Brazilian Portuguese normalization](https://github.com/remsky/Kokoro-FastAPI/pull/553) — Contributed to text normalization for an OpenAI-compatible text-to-speech API.
+
+I’m looking to contribute to useful Python projects, AI developer tools, and backend infrastructure. I value focused fixes, clear documentation, reproducible examples, and maintainable implementations.
 
 ## What I work on
 
@@ -17,16 +22,6 @@ I build practical backend and AI products: APIs, async services, retrieval workf
 - **Applied AI:** RAG, LLM applications, prompt and context design, and developer tooling
 - **Cloud systems:** AWS serverless, cloud architecture, observability, and cost-aware delivery
 - **Product engineering:** React applications and automation that solve practical workflow problems
-
-## Open source
-
-I’m looking to contribute to useful Python projects, AI developer tools, and backend infrastructure. I value focused fixes, clear documentation, reproducible examples, and maintainable implementations.
-
-## Current interests
-
-- Building developer tools that make AI workflows more reliable and easier to evaluate
-- Improving API performance, observability, and operational simplicity
-- Sharing practical engineering notes and lessons from shipped projects
 
 ## Let’s connect
 
